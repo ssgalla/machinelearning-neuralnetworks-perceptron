@@ -6,7 +6,7 @@ processing-3.4 -> perceptronCT -> CC_simplePerceptron
 
 open the files with i3 processing which is included in the files then click run alternatively click on the application folders and run independent Java application
 
-
+NOTE: YOU WILL NEED TO DOWNLOAD I3 PROCESSING
 
 Scenario
 
